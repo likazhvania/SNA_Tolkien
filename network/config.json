@@ -9,11 +9,11 @@
   },
   "text": {
     "more": "temp",
-    "intro": "temp",
-    "title": "The Lord of The Rings Network Analysis based on book trilogy"
+    "intro": "Network Analysis based on book trilogy",
+    "title": "The Lord of The Rings"
   },
   "legend": {
-    "edgeLabel": "links",
+    "edgeLabel": "Links between characters",
     "colorLabel": "Race",
     "nodeLabel": "Character"
   },
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,

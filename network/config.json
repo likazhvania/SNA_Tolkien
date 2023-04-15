@@ -5,13 +5,15 @@
   "logo": {
     "file": "",
     "link": "",
+    "text": ""
   },
   "text": {
-    "more": "Network Analysis based on book trilogy",
+    "more": "",
+    "intro": "Network Analysis based on book trilogy",
     "title": "The Lord of The Rings"
   },
   "legend": {
-    "edgeLabel": "Links between characters",
+    "edgeLabel": "links",
     "colorLabel": "Race",
     "nodeLabel": "Character"
   },

@@ -37,7 +37,7 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #eee;
+	background-color: #2E2E2E;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
@@ -239,8 +239,8 @@ font-family: Ringbearer;
 #mainpanel {
 margin-top: 50px;
 margin-left: 25px;
-background:#2E2E2E;
-background-color:#2E2E2E;
+background:#f0f0f0;
+background-color:#f0f0f0;
 border:1px solid #ccc;
 z-index:20;
 position:fixed;

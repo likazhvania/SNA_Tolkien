@@ -224,10 +224,12 @@ width: 100%;
 height: 72px;
 background-repeat: no-repeat;
 margin-bottom:20px;
+font-family: Ringbearer;
 }
 
 #maintitle h1 {
 display: #252525;
+font-family: Ringbearer;
 }
 
 #mainpanel {
@@ -255,10 +257,12 @@ margin: 0;
 
 #title {
 font-weight: bold;
+font-family: Ringbearer;
 }
 
 #titletext {
 padding: 6px 0 10px 0;
+font-family: Ringbearer;
 }
 
 #info {
